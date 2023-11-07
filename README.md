@@ -90,6 +90,10 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
+DEVELOPED BY: HARINI V
+REGISTER NO: 212222230044
+```
+```
 #include "main.h"
 #include "stdio.h"
 
